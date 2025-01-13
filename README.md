@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaynarisganz
+- 👋 Hi, I’m Ariz
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on meta
